@@ -21,8 +21,8 @@ sudo chmod +x mvnw
 
 3. The app is available at port 8080. Join group and enjoy a conversation with friends  ...
 
-![interface](src/main/resources/static/images/demo crop.png)
+![interface](src/main/resources/static/images/demo-crop.png)
 
 ### System Design
 
-![system design](src/main/resources/static/images/system design.png)
+![system design](src/main/resources/static/images/system-design.png)
